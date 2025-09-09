@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**changlu812/changlu812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 关于我：
+- 一个喜欢acg的好人，某四字ppt老游戏深度热恋中
+- 当前技术栈零碎，熟悉MySQL、numpy、pandas等数分工具，正在前端养成中
+- 有健身习惯，喜欢六点早起健身
 
-Here are some ideas to get you started:
+### 软工五问
+- 软件工程被称为“工程”，意味着它追求可预测性、可靠性和流程化。但软件需求天生就充满变化和不确定性。我们该如何用“工程”的方法去管理这种“不确定”？
+- 除了“没有bug”，衡量一个软件系统质量的核心维度还有哪些？
+- 当个人编程变为百人乃至千人的团队协作时，哪些技术和管理上的挑战会指数级增长？我们需要怎样的工具和流程来保障协作的可控性？​
+- 为什么在开始编码之前需要进行“软件设计”（画架构图、设计模块关系）？这种“前期设计”与敏捷开发中“响应变化 over 遵循计划”的理念是否矛盾？
+- 如何量化一个功能的好坏或一个Bug的影响范围？基于用户数据（如A/B测试）进行决策会带来哪些效率和伦理上的优势与挑战？​
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 我想收获
+- 掌握系统化的开发流程与方法论
+- 养成软件设计与建模能力、形成专业的质量保障体系
+- 锻炼​​抽象与分解问题的能力、权衡与决策思维、过程改进与量化思维和风险意识与管理
+- 增强团队协作能力
