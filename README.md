@@ -45,9 +45,9 @@
 
 ## 📌 最近活跃仓库 
 **AviaryPay 前端开源仓库**
-  - 最近积极提交 PR，优化前端交互 
+  - 积极提交 PR，优化前端交互 
   - 修复用户体验问题，提高操作可用性  
-  - [查看我的 PR](https://github.com/changlu812?tab=pulls)
+  - https://github.com/PUSDC/pusdc_frontend.git
 
 
 ## 📫 联系方式
