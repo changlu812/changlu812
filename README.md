@@ -15,7 +15,7 @@
 
 - 👨‍🎓 21岁 CS 大学生  
 - 💼 AviaryPay builder  
-- 🔍 关注方向：AI Agent / Web3  / 智能合约  
+- 🔍 关注方向：前端→全栈 / AI Agent / Web3  / 智能合约  
 - 🛠 技术栈：Python / JavaScript / Solidity  
 - 📈 持续学习中…… 
 
