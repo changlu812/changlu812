@@ -36,12 +36,6 @@
 ### 工具链
 `Git` `Vue` `Node.js` `WSL2` `Anvil`……
 
-### AI 开发辅助工具偏好
-
-- VSCode + **Copilot**主力代码补全与建议  
-- VSCode + **Codex** 模型进行生成与重构辅助  
-- 喜欢在调试/重构环节配合 AI 工具快速定位与修复
-
 
 ## 📌 最近活跃仓库 
 **AviaryPay 前端开源仓库**
